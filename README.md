@@ -18,7 +18,7 @@ Backend-разработчик на Java с опытом создания сис
 ![Log4j](https://img.shields.io/badge/Log4j-1F1F1F?style=for-the-badge&logo=apache&logoColor=white)
 
 ### 🔥 Проекты
-#### [Система обнаружения дронов]([https://github.com/Maximys148/drone-detection-system](https://github.com/Maximys148/ListenerDetector))
+#### [Система обнаружения дронов](https://github.com/Maximys148/ListenerDetector)
 - Интеграция WebSocket для real-time обработки сигналов
 - Настройка Kafka Producers
 - Работа с Protocol Buffers (.proto)
