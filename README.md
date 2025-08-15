@@ -28,4 +28,4 @@ Backend-разработчик с 5-месячным опытом в созда�
 ### 📫 Контакты
 - Telegram: [@Maximys148](https://t.me/Maximys148)
 - Email: maxp.250705@gmail.com
-- Резюме: [Ссылка на резюме](https://irbit.hh.ru/resume/e100b2caff0e6205c70039ed1f784a575a6b51)
+- Резюме: [Резюме](https://irbit.hh.ru/resume/e100b2caff0e6205c70039ed1f784a575a6b51)
