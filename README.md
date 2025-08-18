@@ -21,7 +21,7 @@ Backend-разработчик на Java с опытом создания сис
 ![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=websocket&logoColor=white)
 ![Log4j](https://img.shields.io/badge/Log4j-1F1F1F?style=for-the-badge&logo=apache&logoColor=white)
 
-### 🔥 Проекты
+### 📝 Проекты
 #### [Система обнаружения дронов](https://github.com/Maximys148/ListenerDetector)
 - Система обработки сигналов от радиочастотников
 #### [Система создания зон и реперных точек](https://github.com/Maximys148/Zone-Manager)
